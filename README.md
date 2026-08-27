@@ -4,7 +4,6 @@
 This project analyzes Los Angeles crime data from 2020–2024 using official city records. The analysis involves data cleaning, preparation, and visualization in an interactive Tableau dashboard designed to help law enforcement and community stakeholders understand crime patterns across the city by type, location, time period, and demographics.
 
 **Dataset Source:** [Crime Data from 2020 to 2024 dataset from data.gov](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
-
 **Tableau Public Publication:** [LA Crimes 2010-2024](https://public.tableau.com/app/profile/long.phan6932/viz/LACrimes2010-2024/TimeofDay)
 ---
 
