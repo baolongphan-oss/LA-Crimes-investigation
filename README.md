@@ -5,7 +5,7 @@ This project analyzes Los Angeles crime data from 2020–2024 using official cit
 
 **Dataset Source:** [Crime Data from 2020 to 2024 dataset from data.gov](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
 
-**Tableau Public Publication: [LA Crimes 2010-2024](https://public.tableau.com/app/profile/long.phan6932/viz/LACrimes2010-2024/TimeofDay)
+**Tableau Public Publication:** [LA Crimes 2010-2024](https://public.tableau.com/app/profile/long.phan6932/viz/LACrimes2010-2024/TimeofDay)
 ---
 
 ## Project Structure
